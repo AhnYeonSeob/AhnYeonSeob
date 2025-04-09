@@ -31,6 +31,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;">blog: <a href=https://blog.naver.com/ahnprog> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/ahnprog"> </a>
         <p>mail: ahnpm94@naver.com </p>
+        <p>react git :https://github.com/AhnYeonSeob94</p>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
